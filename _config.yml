@@ -1,0 +1,38 @@
+title: The Void
+description: A growing archive of books, memories, and lived experience. An independent library, free to read.
+url: "https://alanschafer.github.io"
+baseurl: "/thevoid"
+lang: en
+author: Jamie Shaffer
+repository: alanschafer/thevoid
+copyright_year: 2026
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+collections:
+  chapters:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: chapters
+    values:
+      layout: chapter
+      nav: Books
+      body_class: reader
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - QA.md
+  - LICENSE-NOTICE.md
+  - scripts
+  - preview
+  - preview
+  - tests

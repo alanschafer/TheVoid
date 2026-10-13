@@ -1,0 +1,13 @@
+<header class="site-header">
+<div class="header-inner wrap">
+<a class="brand" href="{{ '/' | relative_url }}">{% include logo.html %}<span>THE VOID</span></a>
+<nav class="primary-nav" id="primary-nav" aria-label="Primary navigation">
+{% for item in site.data.navigation %}<a href="{{ item.url | relative_url }}" {% if page.nav == item.title %}aria-current="page"{% endif %}>{{ item.title }}</a>{% endfor %}
+</nav>
+<div class="header-actions">
+<button type="button" class="search-trigger" data-search-open>Search <kbd>/</kbd></button>
+<button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch to light mode">Light</button>
+<button type="button" class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+</div>
+</div>
+</header>

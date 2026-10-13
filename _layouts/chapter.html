@@ -1,0 +1,18 @@
+---
+layout: default
+body_class: reader
+---
+{% assign book = site.data.books | where: 'id', page.book | first %}{% assign chapters = site.chapters | where: 'book', page.book | sort: 'order' %}
+{% for c in chapters %}{% if c.url == page.url %}{% assign idx = forloop.index0 %}{% endif %}{% endfor %}
+{% assign prev_i = idx | minus: 1 %}{% assign next_i = idx | plus: 1 %}{% assign next = chapters[next_i] %}
+{% if idx > 0 %}{% assign prev = chapters[prev_i] %}{% else %}{% assign prev = nil %}{% endif %}
+<div class="reading-progress" aria-hidden="true"><span id="reading-progress"></span></div>
+<div class="wrap reader-top"><a href="{{ book.url | relative_url }}">← {{ book.title }}</a><span>SECTION {{ idx | plus: 1 }} / {{ chapters.size }}</span></div>
+<div class="wrap reader-layout"><aside class="reader-sidebar"><a class="sidebar-book" href="{{ book.url | relative_url }}">{{ book.title }}</a><p class="eyebrow">CONTENTS</p><nav aria-label="Book contents">{% for c in chapters %}<a href="{{ c.url | relative_url }}" {% if page.url == c.url %}aria-current="page"{% endif %}><span>{{ forloop.index | prepend: '0' }}</span>{{ c.nav_title }}</a>{% endfor %}</nav><a class="text-link" href="{{ '/help/' | relative_url }}">Reader guide ↗</a></aside>
+<div class="reader-main"><details class="mobile-contents"><summary>Contents · {{ idx | plus: 1 }} of {{ chapters.size }}</summary><nav aria-label="Mobile book contents">{% for c in chapters %}<a href="{{ c.url | relative_url }}" {% if page.url == c.url %}aria-current="page"{% endif %}>{{ c.nav_title }}</a>{% endfor %}</nav></details>
+<header class="chapter-heading"><p class="eyebrow">{{ page.kicker | default: 'THE VOID / MEMOIR' }}</p><h1>{{ page.title }}</h1><p class="muted">{{ content | strip_html | number_of_words | divided_by: 200.0 | ceil | at_least: 1 }} min read · Jamie Shaffer</p></header>
+<div class="reading-tools" role="toolbar" aria-label="Reading tools"><div><button id="size-down" type="button" aria-label="Smaller text">A−</button><button id="size-up" type="button" aria-label="Larger text">A+</button><span class="tool-divider"></span><button data-save="{{ page.record_id }}" aria-pressed="false" type="button">Save section +</button></div><button id="copy-link" type="button">Copy link ↗</button></div>
+{% if idx == 0 or idx == 2 %}<p class="chapter-warning">Reader note: this section describes a fatal crash. Please read at your own pace.</p>{% endif %}
+<article class="prose {% if page.dropcap %}dropcap{% endif %}" id="chapter-text">{{ content }}</article>
+<nav class="chapter-nav" aria-label="Chapter navigation">{% if prev %}<a rel="prev" href="{{ prev.url | relative_url }}"><span>← PREVIOUS</span><strong>{{ prev.nav_title }}</strong></a>{% else %}<a href="{{ book.url | relative_url }}"><span>← THE BOOK</span><strong>Back to contents</strong></a>{% endif %}{% if next %}<a rel="next" href="{{ next.url | relative_url }}"><span>NEXT →</span><strong>{{ next.nav_title }}</strong></a>{% else %}<a href="{{ book.url | relative_url }}"><span>YOU’VE REACHED THE END</span><strong>Back to the book →</strong></a>{% endif %}</nav>
+<div class="reader-end"><a href="#main">Back to top ↑</a><a href="{{ '/books/id-rather-not-say-goodbye/complete/' | relative_url }}">Full-book view ↗</a></div></div></div>

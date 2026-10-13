@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+{% for book in site.data.books %}{"id":{{ book.record_id | jsonify }},"title":{{ book.title | jsonify }},"url":{{ book.url | relative_url | jsonify }},"type":"Book","tags":{{ book.tags | jsonify }},"text":{{ book.description | append: ' ' | append: book.author | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}{% if site.chapters.size > 0 %},{% endif %}
+{% assign chapters = site.chapters | sort: 'order' %}{% for c in chapters %}{"id":{{ c.record_id | jsonify }},"title":{{ c.nav_title | jsonify }},"url":{{ c.url | relative_url | jsonify }},"type":"Section","tags":{{ c.tags | jsonify }},"text":{{ c.content | strip_html | normalize_whitespace | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}
+]

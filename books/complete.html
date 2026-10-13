@@ -1,0 +1,9 @@
+---
+layout: default
+title: "I'd Rather Not Say Goodbye — Complete manuscript"
+permalink: /books/id-rather-not-say-goodbye/complete/
+nav: Books
+body_class: complete reader
+---
+{% assign book = site.data.books[0] %}{% assign chapters = site.chapters | where: 'book', book.id | sort: 'order' %}
+<div class="wrap complete-page"><a class="text-link" href="{{ book.url | relative_url }}">← Book & contents</a><header class="chapter-heading"><p class="eyebrow">THE COMPLETE MANUSCRIPT</p><h1>{{ book.title }}</h1><p>Jamie Shaffer</p></header><div class="reading-tools"><div><button id="size-down" aria-label="Smaller text">A−</button><button id="size-up" aria-label="Larger text">A+</button></div><button data-print>Print / Save as PDF ↗</button></div><p class="chapter-warning">Contains graphic descriptions of a fatal crash, death, trauma, and strong language. Personal experience, not medical advice.</p><p class="dedication">{{ book.dedication }}</p>{% for c in chapters %}<section class="complete-section"><h2>{{ c.title }}</h2><article class="prose">{{ c.content }}</article></section>{% endfor %}</div>

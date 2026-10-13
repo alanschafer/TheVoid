@@ -1,0 +1,11 @@
+---
+layout: page
+title: Your shelf
+nav: Saved
+kicker: THE VOID / SAVED
+intro: Keep a place for the things you want to return to.
+---
+<p class="shelf-note">Saved items and your reading place stay in this browser, not in an account. If browser storage is blocked, saves last only for this session.</p>
+<div class="continue-card" id="continue-card" hidden><p class="eyebrow">PICK UP THE THREAD</p><h2 id="continue-title">Continue reading</h2><a class="button primary" id="continue-link" href="{{ '/books/' | relative_url }}">Continue reading →</a></div>
+<div id="saved-records"></div><div class="empty-state" id="saved-empty"><div class="shelf-mark">{% include logo.html %}</div><p class="eyebrow">A LITTLE SPACE, JUST FOR YOU</p><h2>Your shelf is waiting.</h2><p>Save a book or a section while you read. You’ll find it here when you want it again.</p><a class="button primary" href="{{ '/books/' | relative_url }}">Find a book →</a></div>
+<noscript><p>Enable JavaScript to save books and sections in this browser.</p></noscript>

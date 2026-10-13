@@ -1,0 +1,19 @@
+- id: id-rather-not-say-goodbye
+  record_id: goodbye
+  title: I'd Rather Not Say Goodbye
+  author: Jamie Shaffer
+  type: Book
+  genre: Memoir
+  description: A first-person account of a fatal crash, the years that followed, and
+    learning to live without a script.
+  dedication: For everyone who lost their last goodbye.
+  url: /books/id-rather-not-say-goodbye/
+  start: /books/id-rather-not-say-goodbye/opening/
+  tags:
+  - memoir
+  - memory
+  - trauma
+  sections: 6
+  minutes: 12
+  year: 2026
+  cover: /assets/images/book-art.webp
