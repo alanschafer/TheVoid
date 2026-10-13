@@ -1,5 +1,5 @@
 ---
-order: 25
+order: 26
 title: Conclusion
 nav_title: Conclusion
 permalink: /books/biblical-texts/conclusion/

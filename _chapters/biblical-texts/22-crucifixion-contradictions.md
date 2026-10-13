@@ -1,5 +1,5 @@
 ---
-order: 21
+order: 22
 title: Contradictions Between Jesus’ Crucifixion and Historical Roman Crucifixions
 nav_title: Crucifixion Contradictions
 permalink: /books/biblical-texts/crucifixion-contradictions/
@@ -54,7 +54,7 @@ Contradiction:
 
 This violates Roman custom — rebels (especially those crucified) didn't get honored burials.
 
-Also contradicts Jewish burial customs which would not allow touching a corpse before Sabbath.
+It also contradicts Jewish burial customs, which would not allow touching a corpse before Sabbath.
 
 Treatment by Romans
 
@@ -80,11 +80,11 @@ Historical Fact:
 
 While mockery happened, the crown of thorns is not recorded in any Roman practice.
 
-Dressing up a condemned man as a "king" was highly unusual unless it was state propaganda.
+Dressing up a condemned man as a “king” was highly unusual, unless it was state propaganda.
 
 Bible Claim:
 
-Soldiers create a crown of thorns, purple robe, and mock Jesus as "King of the Jews" (Matthew 27:29).
+Soldiers create a crown of thorns, purple robe, and mock Jesus as “King of the Jews” (Matthew 27:29).
 
 Contradiction:
 
@@ -106,7 +106,7 @@ Contradiction:
 
 This wouldn't be allowed by Roman soldiers, especially not for rebels.
 
-Also odd that none of the male disciples are arrested for association.
+Also, odd that none of the male disciples are arrested for association.
 
 Final Words from the Cross
 
@@ -120,13 +120,13 @@ Bible Claim:
 
 Jesus gives seven distinct statements (depending on the Gospel), including:
 
-"It is finished."
+“It is finished.”
 
 (John 19:30)
 
-"Father, forgive them..." (Luke 23:34)
+“Father, forgive them…” (Luke 23:34)
 
-"My God, why have you forsaken me?"
+“My God, why have you forsaken me?”
 
 (Mark 15:34)
 
@@ -152,15 +152,15 @@ Different Crucifixion Accounts
 
 The four Gospels all tell different stories about Jesus' crucifixion:
 
-Mark: "Why have you forsaken me?" - Simon of Cyrene carries cross - Silent mostly
+Mark: “Why have you forsaken me?” — Simon of Cyrene carries cross — Silent mostly
 
 Luke:
 
-"Father forgive them..." and "Into your hands..." - Simon carries cross - Talkative
+“Father forgive them…” and “Into your hands…” — Simon carries cross — Talkative
 
-Matthew: Same as Mark - Simon carries cross - Silent
+Matthew: Same as Mark — Simon carries cross — Silent
 
-John: "It is finished." - Jesus carries it himself - Talks to mother, disciple
+John: “It is finished.” — Jesus carries it himself — Talks to mother, disciple
 
 Contradiction:
 
@@ -182,7 +182,7 @@ Contradictory depiction of a key moment, suggesting literary invention.
 
 Conclusion
 
-There is no reason to believe the ' crucifixion, as told in the Gospels, follows Roman historical practice. It:
+There is no reason to believe the' crucifixion, as told in the Gospels, follows Roman historical practice. It:
 
 Contradicts Roman legal procedures
 
@@ -190,6 +190,6 @@ Violates burial customs
 
 Depicts unrealistic behavior of soldiers and victims
 
-Is filled with symbolic and contradictory elements across Gospels
+It is filled with symbolic and contradictory elements across Gospels
 
 It appears more like a crafted theological narrative designed to fulfill prophecy and portray Jesus as a divine martyr — not a real event recorded with accuracy.

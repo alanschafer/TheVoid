@@ -14,17 +14,15 @@ tags:
 type: Section
 num: ·
 ---
-PROPHECIES AND DECEIT
-
 ## Prophecies Interpreted as Unfulfilled by Some Scholars
 
-## Abraham's Descendants' Enslavement
+Abraham's Descendants' Enslavement
 
 God says Abraham's descendants will be enslaved for 400 years (Genesis 15:13), but they were enslaved for 430 years
 
 (Exodus 12:40) Thus becoming an interpretation as unfulfilled prophecy\[1\]
 
-## Ezekiel's Prophecy Against Tyre
+Ezekiel's Prophecy Against Tyre
 
 "Nebuchadnezzar... shall slay thy daughters... make a spoil of thy riches... I will make thee like the top of a rock; thou shalt be a place to spread nets upon; thou shalt be built no more."
 
@@ -34,19 +32,19 @@ Nebuchadnezzar was never rebuilt, but Nebuchadnezzar failed to conquer mainland 
 
 Alexander the Great eliminated it later, but Tyre was rebuilt. Today, Tyre still exists in Lebanon. This another interpretation as unfulfilled prophecy\[1\]
 
-## The Misinterpreted Prophecy
+#####  The Misinterpreted Prophecy
 
 "Behold, a virgin shall conceive and bear a son..." The Hebrew word is almah — meaning "young woman," not a virgin (Isaiah 7:14)
 
-Context: It was a sign to King Ahaz in the 8th century BCE, not about Jesus 700+ years later. This has been cited as another interpretation as unfulfilled prophecy\[1\]
+Context: It was a sign to King Ahaz in the 8th century BCE, not about Jesus 700 years later. This has been cited as another interpretation as unfulfilled prophecy\[1\]
 
-## Ezekiel's Temple Vision
+Ezekiel's Temple Vision
 
 Ezekiel 40–48: Detailed specific measurements and visions of a future temple. The temple was never built as described.
 
 Jewish expectations remain unfulfilled. This has also been cited as another interpretation as unfulfilled prophecy\[1\]
 
-## Jonah's Decree
+Jonah's Decree
 
 Jonah 3:4:
 

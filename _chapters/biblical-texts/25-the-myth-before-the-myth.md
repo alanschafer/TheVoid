@@ -1,5 +1,5 @@
 ---
-order: 24
+order: 25
 title: The Myth Before the Myth
 nav_title: The Myth Before the Myth
 permalink: /books/biblical-texts/the-myth-before-the-myth/
@@ -15,21 +15,17 @@ type: Section
 subtitle: Ancestral Shadows of the Christ Figure
 num: ·
 ---
-**THE MYTH BEFORE THE MYTH:**
-
-## ANCESTRAL SHADOWS OF THE CHRIST FIGURE
-
 Long before the gospels, the ancient world echoed with stories of gods who died, descended, and returned again — deities who offered salvation, taught divine mysteries, healed the sick, and triumphed over death. Though none of these myths mirror the Jesus story point for point, they form a cultural and mythological foundation from which early Christian motifs likely grew. Here, we examine only those ancient precedents that scholars and historians accept as authentic, attested, and relevant.
 
 1.  Dionysus (Greece)
 
-Born of a mortal woman (Semele) and Zeus, Dionysus was a divine son who walked among men. His mystery cults offered salvation and eternal life, with rituals involving wine (his blood) and sacred feasting. Called the "twice-born," Dionysus was torn apart (in some versions by the Titans), then restored to life. His followers reenacted his death and rebirth, being this united them with the god and promised immortality.
+Born of a mortal woman (Semele) and Zeus, Dionysus was a divine son who walked among men. His mystery cults offered salvation and eternal life, with rituals involving wine (his blood) and sacred feasting. Called the “twice-born,” Dionysus was torn apart (in some versions by the Titans), then restored to life. His followers reenacted his death and rebirth, being this united them with the god and promised immortality.
 
 Sources: Euripides' Bacchae (5th c. BCE), Orphic hymns, Diodorus Siculus, Plutarch.
 
 2.  Asclepius (Greece)
 
-The divine healer son of Apollo, Asclepius was so skilled he could raise the dead, prompting Zeus to strike him down with a thunderbolt. Later deified and widely worshipped in temples as a savior, especially for the sick. Shrines to him were places of miraculous healing, involving prayers, dreams, and rituals.
+The divine healer son of Apollo, Asclepius, was so skilled he could raise the dead, prompting Zeus to strike him down with a thunderbolt. Later deified and widely worshiped in temples as a savior, especially for the sick. Shrines to him were places of miraculous healing, involving prayers, dreams, and rituals.
 
 Sources: Pausanias, Pindar, Plato's Republic, inscriptions from healing temples (Asclepieia).
 
@@ -41,7 +37,7 @@ Sources: Livy (Ab Urbe Condita), Plutarch (Romulus), Cicero.
 
 4.  Zalmoxis (Thrace / Scythia)
 
-A mysterious figure among the Getae, Zalmoxis taught that death is not the end. According to Herodotus, he disappeared into a cave for three years, was thought dead, then reappeared alive, convincing followers of the afterlife. His legend involves teaching resurrection and immortality.
+A mysterious figure among the Getae, Zalmoxis, taught that death is not the end. According to Herodotus, he disappeared into a cave for three years, was thought dead, then reappeared alive, convincing followers of the afterlife. His legend involves teaching resurrection and immortality.
 
 Sources: Herodotus (Histories 4.93–96), Plato (Charmides).
 

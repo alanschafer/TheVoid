@@ -1,5 +1,5 @@
 ---
-order: 12
+order: 13
 title: Lucifer Never Existed
 nav_title: Lucifer Never Existed
 permalink: /books/biblical-texts/lucifer-never-existed/

@@ -28,13 +28,13 @@ The Epic of Gilgamesh
 
 The Lord looked upon the earth and saw that the wickedness of man was great, and that the noise and clamor of humanity troubled the divine realm. The god Ea, creator of the earth, decided to end all life with a great flood, for mankind had become altered and their ways were morally problematic in the sight of heaven.
 
-But there was one righteous man found upon the earth Utnapishtim, who walked with the gods and was perfect in his generation. And the Lord spoke unto Utnapishtim in a dream, saying: "Behold, I will bring a flood of waters upon the earth to eliminate all flesh wherein is the breath of life. But with thee will I establish my covenant."
+But there was one righteous man found upon the earth Utnapishtim, who walked with the gods and was perfect in his generation. And the The lord spoke unto Utnapishtim in a dream, saying: "Behold, I will bring a flood of waters upon the earth to eliminate all flesh wherein is the breath of life. But with thee will I establish my covenant."
 
 And God commanded Utnapishtim to construct a six-story square ark, saying: "Make thee an ark; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch. And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female."
 
 And Utnapishtim did according to all that the Lord commanded him. He brought into the ark his family, and all manner of beasts, and fowls of the air, and every creeping thing, two and two went there unto Utnapishtim into the ark, the male and the female, as God had commanded.
 
-And the flood was upon the earth seven days and seven nights, and the waters increased and lifted up the ark above the earth. And all flesh died that moved upon the earth, both of fowl and of cattle, and of beast, and of every creeping thing, and every man. All in whose nostrils was the breath of life died.
+And the flood was upon the earth seven days and seven nights, and the waters increased and lifted the ark above the earth. And all flesh died that moved upon the earth, both of fowl and of cattle, and of beast, and of every creeping thing, and every man. All in whose nostrils was the breath of life died.
 
 And the ark rested upon the mountains, and the waters decreased continually. And after seven days, Utnapishtim sent forth a dove from him, to see if the waters were abated; but the dove found no rest for the sole of her foot, and she returned unto him into the ark. Then he sent forth a swallow, but it also returned. And he sent forth a raven, which went forth and did not return, for it found sustenance upon the earth.
 

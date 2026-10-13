@@ -1,5 +1,5 @@
 ---
-order: 17
+order: 18
 title: Jesus and YHWH
 nav_title: Jesus and YHWH
 permalink: /books/biblical-texts/jesus-and-yhwh/
@@ -14,6 +14,8 @@ tags:
 type: Section
 num: ·
 ---
+## Jesus, a priest in the order of Melchizedek
+
 A Non-YHWH Priesthood
 
 Melchizedek is introduced in Genesis 14 and expanded in Hebrews as a figure of spiritual significance who predates and outranks the Levitical priesthood.
@@ -28,17 +30,17 @@ Jesus is said to be a priest in the order of Melchizedek:
 
 6:20), not Levi or Aaron,
 
-the priesthood under YHWH's law. Thus Jesus inherits a higher, older, non-YHWH priesthood.
+the priesthood under YHWH's law. Thus, Jesus inherits a higher, older, non-YHWH priesthood.
 
 Possible Animosity or Opposition Jesus displays to YHWH
 
-In verses he seemingly
+In verses, he seemingly
 
-Contradicts the levitical laws quoting from the old testament itself
+Contradicts the Levitical laws quoting from the Old Testament itself
 
 "You have heard it said...
 
-but I say to you..." Jesus contradicts Mosaic Law multiple times:
+But I say to you..." Jesus contradicts Mosaic Law multiple times:
 
 "An eye for an eye" → "Turn the other cheek"
 
@@ -60,7 +62,7 @@ Jesus says this to religious leaders who followed the Law of Moses and to the on
 
 the law of YHWH. He does not affirm that YHWH is their father
 
-— instead he links their law to killing and misleading information.
+— instead, he links their law to killing and misleading information.
 
 Jesus' Statement
 
@@ -70,13 +72,13 @@ This is often read as a parable about God's generosity, but there's an undertone
 
 Jesus May Be Mocking YHWH's Behavior
 
-"Then the Lord sent venomous snakes among them; they bit the people and many Israelites died." (Numbers 21:6)
+"Then the Lord sent venomous snakes among them; they bit the people, and many Israelites died." (Numbers 21:6)
 
 Jesus was incredibly knowledgeable in the texts when At age twelve, Jesus was found teaching and asking questions in the Temple in Jerusalem during the Passover festival, much to the astonishment of religious teachers and his parents. This event, recorded in Luke 2:41-52
 
 And The teachers were amazed by Jesus' understanding and insightful questions, even though he was only twelve years old
 
-So if anyone would know these things it would be jesus
+So if anyone would know these things, it would be Jesus
 
 What he might have been referring to
 
@@ -98,7 +100,7 @@ YHWH who had revealed himself to Moses, Abraham, and prophets... was known
 
 By many but yet Jesus said "no one knows the Father except me" This would naturally and logically imply that the true God was not known before Jesus or without Jesus but only through him could the Almighty God be known, this also possibly being a critique of YHWH as a false or incomplete deity.
 
-And the Old Testament in the view of some interpreters, states:
+And the Old Testament, in the view of some interpreters, states:
 
 "I am YHWH. I appeared to Abraham, to Isaac, and to Jacob as El Shaddai, but by My name YHWH I did not make Myself known to them." (Exodus 6:2–3)
 
@@ -134,7 +136,7 @@ The Melchizedek priesthood was superior in all legitimacy and predated the Levit
 
 The claim to be Messiah alone wasn't blasphemous under Jewish law, but Jesus went further - claiming to be "the Son of God" and the coming judge, which was considered a claim for deity and a priestly authority that would have made their entire religious system obsolete.
 
-They absolutely would have understood what he was claiming and they would have taken drastic action in secret to respond to such a threat and that's why it could be legitimate and they could have had him killed
+They absolutely would have understood what he was claiming, and they would have taken drastic action in secret to respond to such a threat and that's why it could be legitimate, and they could have had him killed
 
 The Name YHWH
 
@@ -146,4 +148,4 @@ The New World Translation of Jehovah's witnesses inserts
 
 Greek manuscript supports this and they do not contain it at all.
 
-Their justification is doctrinal, not textual. Only a small number of modern, non-mainstream religious groups (Jehovah's Witnesses and Sacred Name movements) insert YHWH or Jehovah into the New Testament. These insertions are doctrinal choices, not backed by any known Greek manuscripts.
+Their justification is doctrinal, not textual. Only some modern, non-mainstream religious groups (Jehovah's Witnesses and Sacred Name movements) insert YHWH or Jehovah into the New Testament. These insertions are doctrinal choices, not backed by any known Greek manuscripts.

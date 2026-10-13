@@ -3,7 +3,7 @@ order: 1
 title: Front matter
 nav_title: Front matter
 permalink: /books/biblical-texts/front-matter/
-description: Publication information, legal disclaimer, dedication, and epigraph.
+description: Copyright, disclaimer, dedication, and epigraphs.
 kicker: Front matter
 book: biblical-texts
 record_id: biblical-front-matter
@@ -14,36 +14,28 @@ tags:
 type: Section
 num: ·
 ---
-### A Historical and Textual Analysis
-
-By Alan Shaffer
-
-Publication Information
+Copyright © 2025 Nexiom Press
 
 First Edition: October 2025
 
-Published by Nexiom Press
+Publisher: Nexiom Press
 
-ISBN: 978-1-123456-78-9(to be assigned)
+## Disclaimer
 
-© 2025 Nexiom Press. All rights reserved.
+This work represents an independent, critical analysis and scholarly examination of biblical texts. It is intended solely for academic and educational purposes. The interpretations and opinions expressed are those of the author. Nothing herein constitutes legal, religious, or philosophical advice. While every effort has been made to ensure accuracy, the author and publisher disclaim any liability for loss or damage arising from reliance on the material presented.
 
-Legal Disclaimer
+## Dedication
 
-This work represents an independent critical analysis and scholarly examination of biblical texts. It is intended for informational and educational purposes only. The views, interpretations, and conclusions expressed herein are those of the author and do not constitute legal, religious, or philosophical advice. The author and publisher make no representations or warranties about the accuracy or completeness of the content and disclaim all liability for any loss or damage caused by reliance on this material. This analysis is not a critique on personal faith but a contribution to academic discourse.
+To all seekers of truth who dare to question, the wisdom to examine evidence, and the integrity to follow honest inquiry—regardless of personal cost.
 
-No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+## Epigraph
 
-Dedication
+“Truth does not fear investigation. Truth has the strength to withstand scrutiny. Truth that cannot be scrutinized is not truth.”
 
-To all seekers of truth who have the courage to question, the wisdom to examine evidence, and the integrity to follow where honest inquiry leads, regardless of personal cost.
-
-"Truth does not fear investigation. Truth has the strength to withstand scrutiny. Truth that cannot be scrutinised is not truth."
-
-"It is the mark of an educated mind to be able to entertain a thought without accepting it."
+“It is the mark of an educated mind to be able to entertain a thought without accepting it.”
 
 — Aristotle
 
-"I would rather have questions that can't be answered than answers that can't be questioned."
+“I would rather have questions that can't be answered than answers that can't be questioned.”
 
 — Richard Feynman

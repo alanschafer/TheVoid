@@ -1,5 +1,5 @@
 ---
-order: 15
+order: 16
 title: Scientific Data on Biblical Claims
 nav_title: Scientific Data on Biblical Claims
 permalink: /books/biblical-texts/scientific-data-on-biblical-claims/
@@ -116,17 +116,17 @@ The Solid Dome (Firmament)
 
 Genesis 1:6: "Let there be an expanse between the waters..."
 
-The Hebrew word for "expanse" in Genesis 1:6 is <span class="mark">raqia (<span dir="rtl">רָקִיע</span>ַ)</span> but the original Hebrew indicates something beaten out like metal — reinforcing the solid-dome view.
+The Hebrew word for "expanse" in Genesis 1:6 is *raqia* (רָקִיעַ) but the original Hebrew indicates something beaten out like metal — reinforcing the solid-dome view.
 
 Four Corners and Ends of the Earth
 
 Isaiah 11:12: "...
 
-gather together the dispersed ones of Judah from the four corners of the earth."
+Gather together the dispersed ones of Judah from the four corners of the earth."
 
 This idiom reflects flat-earth thinking — you don't get corners on a sphere.
 
-Job 38:13: "... to take hold of the ends of the earth..." Again, "ends" impuntruths an edge — not a globe.
+Job 38:13: "... to take hold of the ends of the earth..." Again, "ends" implies an edge — not a globe.
 
 The Bible's cosmology is not heliocentric. It reflects ancient
 

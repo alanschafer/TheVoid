@@ -1,5 +1,5 @@
 ---
-order: 20
+order: 21
 title: The Gospels
 nav_title: The Gospels
 permalink: /books/biblical-texts/the-gospels/
@@ -38,41 +38,41 @@ John, written last (90–100 AD),
 
 portrays Jesus as a more mystical, divine, and philosophical version who speaks in abstract monologues. Compared to the abrupt, cryptic parables in Matthew, Mark & Luke.
 
-## Jesus' Red Letters - Contradictory Dialogue
+## Jesus' Red Letters — Contradictory Dialogue
 
-"Let your light shine before men"
+“Let your light shine before men”
 
 (Matthew 5:16) vs.
 
-"Do not practice righteousness before others to be seen by them"
+“Do not practice righteousness before others to be seen by them”
 
-(Matthew 6:1). "I judge no one"
+(Matthew 6:1). “I judge no one”
 
 (John 8:15) vs.
 
-"the Father judges no one, but has entrusted all judgment to the Son"
+“The Father judges no one, but has entrusted all judgment to the Son”
 
 (John 5:22).
 
-"My kingdom is not of this world"
+“My kingdom is not of this world”
 
 (John 18:36) vs.
 
-"Truly I tell you, at the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel" (Matthew 19:28).
+“Truly I tell you, at the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel” (Matthew 19:28).
 
 ## Final Words
 
 What did Jesus say?
 
-"My God, my God, why have you forsaken me?" (Matthew 27:46)
+“My God, my God, why have you forsaken me?” (Matthew 27:46)
 
-"Eloi, Eloi, lama sabachthani?"
+“Eloi, Eloi, lama sabachthani?”
 
 (Mark 15:34)
 
-"Father, into your hands I commit my spirit." (Luke 23:46)
+“Father, into your hands I commit my spirit.” (Luke 23:46)
 
-"It is finished."
+“It is finished.”
 
 (John 19:30)
 
@@ -80,7 +80,7 @@ What did Jesus say?
 
 Who found Jesus?
 
-Mary Magdalene and "the other Mary" - Matthew (28:1)
+Mary Magdalene and “the other Mary” — Matthew (28:1)
 
 Mary Magdalene, Mary the mother of James, and Salome -
 
@@ -88,9 +88,11 @@ Mark (16:1)
 
 Mary Magdalene, Joanna, Mary the mother of James, and others
 
-- Luke (24:10)
+-
 
-Only Mary Magdalene - John (20:1)
+Luke (24:10)
+
+Only Mary Magdalene — John (20:1)
 
 ## Resurrection
 

@@ -288,3 +288,6 @@ input[type=search]::-webkit-search-cancel-button{-webkit-appearance:none;appeara
 
 .reader-sidebar{max-height:calc(100vh - 7.5rem);overflow-y:auto;overscroll-behavior:contain;padding-right:var(--space-2);scrollbar-width:thin;scrollbar-color:var(--color-border-strong) transparent}
 .book-cover .cover-title{text-shadow:0 0 14px rgba(0,0,0,.95),0 0 4px rgba(0,0,0,.9),0 1px 2px rgba(0,0,0,.9)}
+.shelf-grid{grid-template-columns:repeat(3,1fr);row-gap:clamp(var(--space-10),5vw,var(--space-16))}
+.shelf-card .book-cover{max-width:300px}
+@media(max-width:900px){.shelf-grid{grid-template-columns:repeat(2,1fr)}}

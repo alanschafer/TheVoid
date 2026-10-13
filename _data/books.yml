@@ -53,15 +53,15 @@
   type: Book
   genre: Nonfiction · Religious studies
   description: A critical, non-devotional reading of the Hebrew Bible and New Testament, covering textual contradictions, mythological parallels, and the historical evidence.
-  dedication: To all seekers of truth who have the courage to question.
+  dedication: To all seekers of truth who dare to question, the wisdom to examine evidence, and the integrity to follow honest inquiry—regardless of personal cost.
   url: /books/biblical-texts/
   start: /books/biblical-texts/front-matter/
   tags:
   - bible
   - history
   - criticism
-  sections: 29
-  minutes: 76
+  sections: 30
+  minutes: 75
   year: 2026
   cover_title: Biblical Texts<br>Under Critical<br><em>Examination.</em>
   cover_label: A TEXTUAL ANALYSIS
@@ -93,3 +93,51 @@
   kind: AN ESSAY BY
   note: A short critical essay on belief, evidence, and balance. It discusses violence and abuse statistics.
   download: /assets/downloads/psyche-paradox.md
+- id: the-mask-that-ate-the-face
+  record_id: mask
+  title: The Mask That Ate the Face
+  subtitle: The Second Artifact
+  author: Alan Shaffer
+  type: Book
+  genre: Fiction · Allegory
+  description: A short story about trauma, dissociation, and healing, told through the metaphor of a protective mask that becomes a prison.
+  dedication: ''
+  url: /books/the-mask-that-ate-the-face/
+  start: /books/the-mask-that-ate-the-face/preface-the-artifacts/
+  tags:
+  - fiction
+  - trauma
+  - psychology
+  sections: 4
+  minutes: 12
+  year: 2026
+  cover_title: The Mask<br>That Ate<br>the <em>Face.</em>
+  cover_label: THE SECOND ARTIFACT
+  cover_art: /assets/images/cover-mask.webp
+  kind: A STORY BY
+  note: A psychological allegory about trauma, PTSD, and dissociation. If it touches something close to your own life, you are not alone. In the US, call or text 988.
+  download: /assets/downloads/the-mask-that-ate-the-face.md
+- id: the-forbidden-path
+  record_id: forbidden
+  title: The Forbidden Path
+  subtitle: Walking Beyond the Edges of Fear
+  author: Alan Shaffer
+  type: Book
+  genre: Fiction · Allegory
+  description: A story of a settlement bound by law and fear, where a boy’s question about a forbidden third path puts everything at risk.
+  dedication: For those who look beyond the horizon, and step where others only dare to dream.
+  url: /books/the-forbidden-path/
+  start: /books/the-forbidden-path/preface-the-artifacts/
+  tags:
+  - fiction
+  - belief
+  - allegory
+  sections: 19
+  minutes: 48
+  year: 2026
+  cover_title: The<br>Forbidden<br><em>Path.</em>
+  cover_label: BEYOND THE EDGES OF FEAR
+  cover_art: /assets/images/cover-path.webp
+  kind: A STORY BY
+  note: A story about religious control and fear. It includes psychological breakdown, death, and violence.
+  download: /assets/downloads/the-forbidden-path.md

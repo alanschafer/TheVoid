@@ -14,29 +14,23 @@ tags:
 type: Section
 num: ·
 ---
-INTRODUCTION
-
 This work examines historical and textual evidence related to the Bible's claim to divine inspiration. And if it was, this analysis considers how it aligns with critical thinking and historical inquiry.
 
-A true word of God at the very least would be timeless, inalterible, reflect the nature of a loving and perfect god, and become more harmonious with intense study—but if it doesn't? What implications might this have for interpretation?
+A true word of God at the very least would be timeless, inalterable, reflect the nature of a loving and perfect god, and become more harmonious with intense study—but if it doesn't? What implications might this have for interpretation?
 
-Let's begin at the beginning in
+Let's begin at the beginning in the Old Testament.
 
-THE
-
-OLD TESTAMENT
-
-With the Creation Accounts —notably presented as two distinct narratives there are two in genesis
+With the Creation Accounts —notably presented as two distinct narratives, there are two in Genesis
 
 The first one In
 
-GENESIS 1 indicates a different order of events it pays out these events as follows
+Genesis 1 indicates a different order of events it pays out these events as follows
 
 God creates by speaking Creation into existence in the span of 6 days, and Humans
 
 (male and female) created together, last
 
-God who is called called (Elohim) in the Septuagint the oldest surviving Greek texts predating the mosaic texts by over 1000 years, the same mosaic texts that that were translated from the Septuagint and systematically replaced the Septuagint and there it lays out the order as follows
+God, who is called (Elohim) in the Septuagint the oldest surviving Greek texts predating the mosaic texts by over 1000 years, the same mosaic texts that that were translated from the Septuagint and systematically replaced the Septuagint and there it lays out the order as follows
 
 1.  Order
 
@@ -62,7 +56,7 @@ God created by hand with no timeframe mentioned
 
 Man created first, then animals, then woman from man
 
-God called "LORD God" (YHWH Elohim)
+God called “LORD God” (YHWH Elohim)
 
 Focuses on Eden, man's role, and relationships.
 

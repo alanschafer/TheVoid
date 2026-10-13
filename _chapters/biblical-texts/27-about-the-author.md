@@ -1,5 +1,5 @@
 ---
-order: 26
+order: 27
 title: About the Author
 nav_title: About the Author
 permalink: /books/biblical-texts/about-the-author/

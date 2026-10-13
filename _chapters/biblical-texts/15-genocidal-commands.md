@@ -1,5 +1,5 @@
 ---
-order: 14
+order: 15
 title: Genocidal Commands
 nav_title: Genocidal Commands
 permalink: /books/biblical-texts/genocidal-commands/
@@ -48,7 +48,7 @@ Joshua 8:24-25:
 
 And all who fell that day, both men and women, were 12,000, all the people of Ai."
 
-4\. The Command Against Amalek
+4. The Command Against Amalek
 
 (1 Samuel 15)
 
@@ -80,7 +80,7 @@ However, UCL historian Hans Van Wees has stated:
 
 'The genocidal campaigns claimed for the early Israelites, however, are largely fictional: the intrinsic improbability and internal inconsistencies of the account in Joshua and its incompatibility with the stories of Judges leave little doubt about this.
 
-'Many scholars interpret the book of Joshua as referring to what would now be considered genocide, though other scholars have concluded that biblical descriptions of violence are few and mostly hyperbolic, based on comparisons to the literary styles of Israel's neighbouring cultures.
+'Many scholars interpret the book of Joshua as referring to what would now be considered genocide, though other scholars have concluded that biblical descriptions of violence are few and mostly hyperbolic, based on comparisons to the literary styles of Israel's neighboring cultures.
 
 Scholarly Note: Traditional religious perspectives often maintain earlier authorship of biblical books,
 
@@ -100,7 +100,7 @@ Psalm 137:9
 
 "Blessed the one who seizes your children and smashes them against the rock"
 
-The is a recurring theme it is painfully present throughout the old testament
+The is a recurring theme, it is painfully present throughout the Old Testament
 
 ## Killing Children to Spite Parents
 

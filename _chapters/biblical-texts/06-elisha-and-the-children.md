@@ -22,7 +22,7 @@ The prophet Elisha is mocked by a group of children, and in response, he calls d
 
 Elisha has just witnessed the miraculous ascent of his mentor Elijah into the heavens.
 
-Now the sole prophetic figure, Elisha is walking toward Bethel—a city already known for its idolatry.
+Now the sole prophetic figure, Elisha, is walking toward Bethel—a city already known for its idolatry.
 
 As he approaches, a group of young males come out of the city and mock him with the phrase: "Go up, you baldhead! Go up, you baldhead!"
 
@@ -50,7 +50,7 @@ Paidarion is the diminutive of pais
 
 Mikra simply means small.
 
-This linguistic choice has been interpreted by many scholars as referring to children possibly in the pre-adolescent age range. These are not grown men or teen hooligans—they are very likely children in the 8–10-year-old range.
+This linguistic choice has been interpreted by many scholars as referring to children, possibly in the pre-adolescent age range. These are not grown men or teen hooligans—they are very likely children in the 8–10-year-old range.
 
 Scholarly Consensus
 

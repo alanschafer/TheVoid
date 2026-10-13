@@ -1,5 +1,5 @@
 ---
-order: 18
+order: 19
 title: Revelation
 nav_title: Revelation
 permalink: /books/biblical-texts/revelation/
@@ -14,13 +14,9 @@ tags:
 type: Section
 num: ·
 ---
-THE NEW TESTAMENT
-
 The New Testament presents its own set of challenges and contradictions that undermine claims of divine authorship.
 
-## REVELATION
-
-### Apocalytica
+### Apocalyptic
 
 ### literature
 
@@ -36,8 +32,8 @@ Time prophecies like "a time, times, and half a time" (Daniel 7:25) vs. (Revelat
 
 The son of man imagery (Daniel 7:13) vs. (Revelation 1:13) The context mimics Daniel to a large degree
 
-Additionally it was not written by the apostle John, but rather written by John of Patmos, a figure who has been mistaken as the apostle John however when the two authors works are subjected to
+Additionally, it was not written by the apostle John, but rather written by John of Patmos, a figure who has been mistaken as the apostle John however when the two authors works are subjected to
 
 Stylistic analysis (stylography), which studies writing style, grammar, and vocabulary, confirms that John couldn't have written the Book of John or any others because they are wildly different in tone and style. This discredits the whole idea of single authorship.
 
-As for the date it was most likely written: around 95 AD, decades after Jesus' time.
+As for the date, it was most likely written: around 95 AD, decades after Jesus' time.

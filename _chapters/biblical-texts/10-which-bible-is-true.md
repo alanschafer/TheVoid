@@ -14,8 +14,6 @@ tags:
 type: Section
 num: ·
 ---
-WHICH BIBLE IS TRUE?
-
 Bibles we see today are derivatives of what in known as the mosaic Bible which was a translation and alteration from the Septuagint and
 
 The Septuagint was the authoritative Greek translation of

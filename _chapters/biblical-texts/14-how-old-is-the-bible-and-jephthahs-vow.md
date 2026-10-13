@@ -1,5 +1,5 @@
 ---
-order: 13
+order: 14
 title: How Old Is the Bible? and Jephthah’s Vow
 nav_title: How Old Is the Bible?
 permalink: /books/biblical-texts/how-old-is-the-bible-and-jephthahs-vow/
@@ -14,8 +14,6 @@ tags:
 type: Section
 num: ·
 ---
-How Old Is the Bible HOW OLD IS THE BIBLE?
-
 Genesis to Deuteronomy was written and edited around 600–400 BCE, during and after the Babylonian exile.
 
 Early oral traditions were compiled and redacted by priestly editors trying to establish religious identity and control. Much of what's in there reflects Babylonian myth, Canaanite laws, and later political agendas, not timeless divine truths.
@@ -52,7 +50,7 @@ And she added:
 
 'Let this thing be done for me:
 
-let me alone for two months, so that I may go up and down on the mountains, and bewail my virginity, me and my companions.'
+Let me alone for two months, so that I may go up and down the mountains, and bewail my virginity, me and my companions.'
 
 And he said: 'Go.'
 
@@ -64,7 +62,7 @@ The phrase "he did to her according to the vow" is clear in Greek as well: "He d
 
 "And she was mourned:
 
-the daughters of Israel went from year to year to bewail the daughter of Jephthah the Galaadite four days in a year." (Judges 11:40)
+The daughters of Israel went from year to year to bewail the daughter of Jephthah the Galaadite four days in a year." (Judges 11:40)
 
 What's Important About the Septuagint Reading
 

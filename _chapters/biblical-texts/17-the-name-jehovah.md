@@ -1,5 +1,5 @@
 ---
-order: 16
+order: 17
 title: The Name “Jehovah”
 nav_title: The Name “Jehovah”
 permalink: /books/biblical-texts/the-name-jehovah/
@@ -32,7 +32,7 @@ It violates the intent of the Masoretes; the vowels were a signal to not pronoun
 
 ## EQUALLY IMPORTANT -
 
-In the new testament
+In the New Testament
 
 Jesus never says the name YHWH, not even once. He does use: "Theos"
 
@@ -50,4 +50,4 @@ Jesus never says the name YHWH, not even once. He does use: "Theos"
 
 Not once does Jesus speak the divine name YHWH or encourage others to.
 
-For a Jew raised under Mosaic Law, where YHWH is central, this is a glaring omission, especially because many of his teachings directly conflict with laws said to come from YHWH (e. g., "You have heard it said... but I say to you...").
+For a Jew raised under Mosaic Law, where YHWH is central, this is a glaring omission, especially because many of his teachings directly conflict with laws said to come from YHWH (e.g., "You have heard it said... but I say to you...").
