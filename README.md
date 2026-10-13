@@ -22,6 +22,7 @@ Live site: https://alanschafer.github.io/thevoid/
 4. Psyche Paradox, by Alan Shaffer (5 chapters)
 5. The Mask That Ate the Face: The Second Artifact, by Alan Shaffer (fiction, 4 sections)
 6. The Forbidden Path: Walking Beyond the Edges of Fear, by Alan Shaffer (fiction, 15 chapters plus front and back matter)
+7. The Bible in Human Time: A Chronological Criticism of Scripture's Evolution from Myth to Canon, by Alan Shaffer (23 chapters and an interlude in seven parts, plus front and back matter; original PDF available to download)
 
 Each work is a record in the archive, and each section is its own record. Book text is kept as supplied; the importer scripts and editorial notes on the imported manuscripts are kept in the Perplexity Project, not in this repository.
 

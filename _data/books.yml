@@ -141,3 +141,28 @@
   kind: A STORY BY
   note: A story about religious control and fear. It includes psychological breakdown, death, and violence.
   download: /assets/downloads/the-forbidden-path.md
+- id: the-bible-in-human-time
+  record_id: human-time
+  title: The Bible in Human Time
+  subtitle: A Chronological Criticism of Scripture’s Evolution from Myth to Canon
+  author: Alan Shaffer
+  type: Book
+  genre: Nonfiction · Biblical criticism
+  description: 'The Bible read in the order it was written: twenty-three chapters tracing Israel’s oral traditions, the prophets, exile, Hellenism, the first Christians, and the making of the canon.'
+  dedication: For the countless voices, long silent and long remembered, whose stories became ours.
+  url: /books/the-bible-in-human-time/
+  start: /books/the-bible-in-human-time/front-matter/
+  tags:
+  - bible
+  - history
+  - criticism
+  sections: 37
+  minutes: 355
+  year: 2026
+  cover_title: The Bible<br>in Human<br><em>Time.</em>
+  cover_label: FROM MYTH TO CANON
+  cover_art: /assets/images/cover-human-time.webp
+  kind: A CRITICAL HISTORY BY
+  note: A historical-critical study of the Bible. It questions traditional views of authorship, dating, and inspiration, and it is written from the author’s own critical perspective.
+  download: /assets/downloads/the-bible-in-human-time.md
+  download_pdf: /assets/downloads/the-bible-in-human-time.pdf
