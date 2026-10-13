@@ -1,13 +1,8 @@
 ---
-layout: default
+layout: book
 title: "I'd Rather Not Say Goodbye"
-description: "A memoir by Jamie Shaffer. A fatal crash, the years that followed, and learning to live without a script."
+description: "A first-person account of a fatal crash, the years that followed, and learning to live without a script."
 permalink: /books/id-rather-not-say-goodbye/
-nav: Books
+book: id-rather-not-say-goodbye
 record_id: goodbye
 ---
-{% assign book = site.data.books[0] %}{% assign chapters = site.chapters | where: 'book', book.id | sort: 'order' %}
-<div class="wrap book-page"><nav class="breadcrumbs" aria-label="Breadcrumb"><a href="{{ '/books/' | relative_url }}">Books</a><span>/</span><span>№ 001</span></nav>
-<div class="book-detail"><div class="book-display">{% include book-cover.html %}<p class="cover-caption">THE VOID EDITION · {{ book.year }}</p></div><div class="book-introduction"><p class="eyebrow">A MEMOIR BY {{ book.author | upcase }}</p><h1>{{ book.title }}</h1><p class="book-summary">{{ book.description }}</p><p class="dedication">{{ book.dedication }}</p><div class="book-meta"><span>{{ book.sections }} sections</span><span>{{ book.minutes }} min read</span><span>Free to read</span></div><div class="actions"><a class="button primary resume-book" href="{{ book.start | relative_url }}">Begin reading →</a><button class="button secondary" data-save="goodbye" aria-pressed="false">Save book +</button></div><details class="reader-note" open><summary>Before you read</summary><p>This memoir contains graphic descriptions of a fatal crash, death, trauma, and strong language. Read at your own pace. The author’s account is personal experience, not medical advice.</p></details></div></div>
-<section class="book-contents" id="contents"><div class="section-heading"><div><p class="eyebrow">THE READING ORDER</p><h2>Contents</h2></div><span class="muted">{{ chapters.size }} sections</span></div><ol>{% for c in chapters %}{% assign words = c.content | strip_html | number_of_words %}<li><a href="{{ c.url | relative_url }}"><span class="toc-number">{{ forloop.index | prepend: '0' }}</span><div><span class="toc-title">{{ c.nav_title }}</span><p>{{ c.description }}</p></div><span class="toc-time">{{ words | divided_by: 200.0 | ceil | at_least: 1 }} min</span><span aria-hidden="true">↗</span></a></li>{% endfor %}</ol></section>
-<div class="book-extras"><a class="text-link" href="{{ '/books/id-rather-not-say-goodbye/complete/' | relative_url }}">Full-book reading & print view ↗</a><a class="text-link" href="{{ '/assets/downloads/id-rather-not-say-goodbye.md' | relative_url }}" download>Download manuscript (.md) ↓</a><a class="text-link" href="{{ '/books/id-rather-not-say-goodbye/sources/' | relative_url }}">Read the sources ↗</a></div></div>

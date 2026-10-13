@@ -12,6 +12,7 @@ tags:
 - memory
 - trauma
 type: Section
+warning: "Reader note: this section describes a fatal crash. Please read at your own pace."
 ---
 
 A double-fatal crash happened at about 7:15 p.m. on Monday, July 9, 2018, on Division Street at Second Avenue South in Waite Park. A Chevrolet Malibu was heading west at a high rate of speed when it went through the median, struck a sign, crossed into the eastbound lanes the wrong way, and hit a 1970 Chevrolet El Camino head-on.

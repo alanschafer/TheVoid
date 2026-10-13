@@ -4,8 +4,7 @@
   author: Jamie Shaffer
   type: Book
   genre: Memoir
-  description: A first-person account of a fatal crash, the years that followed, and
-    learning to live without a script.
+  description: A first-person account of a fatal crash, the years that followed, and learning to live without a script.
   dedication: For everyone who lost their last goodbye.
   url: /books/id-rather-not-say-goodbye/
   start: /books/id-rather-not-say-goodbye/opening/
@@ -16,4 +15,81 @@
   sections: 6
   minutes: 12
   year: 2026
-  cover: /assets/images/book-art.webp
+  cover_title: I’d Rather<br>Not Say<br><em>Goodbye.</em>
+  cover_label: A MEMOIR
+  cover_art: /assets/images/book-art.webp
+  note: This memoir contains graphic descriptions of a fatal crash, death, trauma, and strong language. Read at your own pace. The author’s account is personal experience, not medical advice.
+  download: /assets/downloads/id-rather-not-say-goodbye.md
+  kind: A MEMOIR BY
+- id: the-mind-of-belief
+  record_id: mind
+  title: The Mind of Belief
+  subtitle: The Prisons We Choose
+  author: Alan Shaffer
+  type: Book
+  genre: Nonfiction · Psychology
+  description: How the brain forms, protects, and spreads belief, and a practical path out of high-control religion. Part science, part memoir, part guide.
+  dedication: To all who have chosen truth over comfort, integrity over belonging, and courage over certainty.
+  url: /books/the-mind-of-belief/
+  start: /books/the-mind-of-belief/title-page/
+  tags:
+  - belief
+  - psychology
+  - religion
+  sections: 34
+  minutes: 136
+  year: 2026
+  cover_title: The Mind<br>of <em>Belief.</em>
+  cover_label: THE PRISONS WE CHOOSE
+  cover_art: /assets/images/cover-mind.webp
+  kind: A STUDY BY
+  note: Contains frank discussion of religious trauma, psychological crisis, and suicidal ideation. The author’s own content warning is the second section. If you are in crisis, call or text 988 (US).
+  download: /assets/downloads/the-mind-of-belief.md
+- id: biblical-texts
+  record_id: biblical
+  title: Biblical Texts Under Critical Examination
+  subtitle: A Historical and Textual Analysis
+  author: Alan Shaffer
+  type: Book
+  genre: Nonfiction · Religious studies
+  description: A critical, non-devotional reading of the Hebrew Bible and New Testament, covering textual contradictions, mythological parallels, and the historical evidence.
+  dedication: To all seekers of truth who have the courage to question.
+  url: /books/biblical-texts/
+  start: /books/biblical-texts/front-matter/
+  tags:
+  - bible
+  - history
+  - criticism
+  sections: 29
+  minutes: 76
+  year: 2026
+  cover_title: Biblical Texts<br>Under Critical<br><em>Examination.</em>
+  cover_label: A TEXTUAL ANALYSIS
+  cover_art: /assets/images/cover-biblical.webp
+  kind: AN ANALYSIS BY
+  note: A critical reading of biblical texts. It challenges beliefs held by many readers and discusses violence described in those texts. The print index is omitted from the web edition because its page numbers do not apply online.
+  download: /assets/downloads/biblical-texts.md
+- id: psyche-paradox
+  record_id: psyche
+  title: Psyche Paradox
+  subtitle: ''
+  author: Alan Shaffer
+  type: Book
+  genre: Nonfiction · Essay
+  description: A short essay in five chapters on objective truth, deconstruction, the evidence problem, and finding balance.
+  dedication: ''
+  url: /books/psyche-paradox/
+  start: /books/psyche-paradox/chapter-1-the-illusion-of-objective-truth/
+  tags:
+  - belief
+  - psychology
+  - essay
+  sections: 5
+  minutes: 18
+  year: 2026
+  cover_title: Psyche<br><em>Paradox.</em>
+  cover_label: AN ESSAY ON BELIEF
+  cover_art: /assets/images/cover-psyche.webp
+  kind: AN ESSAY BY
+  note: A short critical essay on belief, evidence, and balance. It discusses violence and abuse statistics.
+  download: /assets/downloads/psyche-paradox.md

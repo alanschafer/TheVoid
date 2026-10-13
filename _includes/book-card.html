@@ -1,0 +1,1 @@
+{% assign cb = include.book %}<a class="shelf-card" href="{{ cb.url | relative_url }}">{% include book-cover.html book=cb small=true %}<div class="shelf-meta"><strong>{{ cb.title }}</strong><span>{{ cb.author }}</span><span class="muted">{{ cb.genre }} · {{ cb.minutes }} min</span></div></a>

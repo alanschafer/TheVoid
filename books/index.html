@@ -3,8 +3,8 @@ layout: page
 title: Books
 nav: Books
 kicker: THE VOID / COLLECTION 01
-intro: A shelf for stories that stay with you.
+intro: A shelf for writing that stays with you.
 ---
-<div class="collection-bar"><span>{{ site.data.books.size }} book in the collection</span><span>Independent writing · Free to read</span></div>
-{% include book-feature.html %}
-<div class="quiet-note"><p>The shelf is small. The story is not.</p><a class="text-link" href="{{ '/archive/' | relative_url }}">Explore every section →</a></div>
+<div class="collection-bar"><span>{{ site.data.books.size }} books in the collection</span><span>Independent writing · Free to read</span></div>
+<div class="feature-stack">{% for b in site.data.books %}{% include book-feature.html book=b %}{% endfor %}</div>
+<div class="quiet-note"><p>The shelf is growing slowly.</p><a class="text-link" href="{{ '/archive/' | relative_url }}">Explore every section →</a></div>

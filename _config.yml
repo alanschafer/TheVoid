@@ -3,7 +3,7 @@ description: A growing archive of books, memories, and lived experience. An inde
 url: "https://alanschafer.github.io"
 baseurl: "/thevoid"
 lang: en
-author: Jamie Shaffer
+author: The Void
 repository: alanschafer/thevoid
 copyright_year: 2026
 markdown: kramdown

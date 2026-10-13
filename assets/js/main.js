@@ -73,7 +73,7 @@
     status.textContent = hits.length ? hits.length + (hits.length === 1 ? ' result' : ' results') + ' for “' + q + '”' : 'Nothing found for “' + q + '”. Try a shorter or different word.';
     hits.slice(0, 8).forEach(function (h) {
       var a = document.createElement('a'); a.href = h.d.url;
-      var t = document.createElement('span'); t.textContent = h.d.type;
+      var t = document.createElement('span'); t.textContent = h.d.book ? h.d.type + ' · ' + h.d.book : h.d.type;
       var n = document.createElement('strong'); n.textContent = h.d.title;
       a.appendChild(t); a.appendChild(n);
       if (h.pos > -1) {
@@ -104,7 +104,7 @@
     var list = savedList();
     $$('[data-save]').forEach(function (b) {
       var on = list.indexOf(b.getAttribute('data-save')) > -1, isBook = b.classList.contains('button');
-      var noun = b.textContent.indexOf('book') > -1 || b.getAttribute('data-save') === 'goodbye' ? 'book' : 'section';
+      var noun = isBook ? 'book' : 'section';
       b.setAttribute('aria-pressed', on ? 'true' : 'false');
       b.textContent = on ? 'Saved ✓' : 'Save ' + noun + ' +';
     });
@@ -119,15 +119,18 @@
   paintSaveButtons();
 
   /* ---------- reading place ---------- */
-  var bookPath = '/books/id-rather-not-say-goodbye/';
+  var bookId = document.body.getAttribute('data-book');
   var rec = document.body.getAttribute('data-record');
-  if (document.body.classList.contains('reader') && rec && rec.indexOf('goodbye-') === 0) {
-    var h1 = $('h1'); store.set('void-last', JSON.stringify({ url: location.pathname, title: h1 ? h1.textContent : 'Last section' }));
+  var reads = readJSON('void-reads', {});
+  if (document.body.classList.contains('reader') && rec && bookId && !document.body.classList.contains('complete')) {
+    var h1 = $('h1'), mark = { url: location.pathname, title: h1 ? h1.textContent : 'Last section', book: bookId };
+    reads[bookId] = mark; store.set('void-reads', JSON.stringify(reads)); store.set('void-last', JSON.stringify(mark));
   }
   var last = readJSON('void-last', null);
-  if (last && last.url && last.url.indexOf(bookPath) > -1) {
-    $$('.resume-book').forEach(function (a) { a.href = last.url; a.firstChild.textContent = 'Continue reading '; });
-  }
+  $$('.resume-book').forEach(function (a) {
+    var r = reads[a.getAttribute('data-book')];
+    if (r && r.url) { a.href = r.url; if (a.firstChild) a.firstChild.textContent = 'Continue reading '; }
+  });
 
   /* ---------- saved page ---------- */
   var savedWrap = $('#saved-records');
@@ -143,7 +146,7 @@
         var row = document.createElement('div'); row.className = 'saved-row';
         var a = document.createElement('a'); a.className = 'record-row'; a.href = d.url;
         var left = document.createElement('div'); var s = document.createElement('strong'); s.textContent = d.title; left.appendChild(s);
-        var t = document.createElement('span'); t.className = 'row-type'; t.textContent = d.type;
+        var t = document.createElement('span'); t.className = 'row-type'; t.textContent = d.book ? d.type + ' · ' + d.book : d.type;
         var ar = document.createElement('span'); ar.setAttribute('aria-hidden', 'true'); ar.textContent = '↗';
         a.appendChild(left); a.appendChild(t); a.appendChild(ar);
         var rm = document.createElement('button'); rm.className = 'saved-remove'; rm.textContent = 'Remove'; rm.setAttribute('aria-label', 'Remove ' + d.title + ' from shelf');
@@ -161,20 +164,22 @@
   var archive = $('#archive-records');
   if (archive) {
     var rows = $$('.record-row', archive), q = $('#archive-search'), sort = $('#archive-sort'), count = $('#archive-count'), clear = $('#clear-filters'), emptyA = $('#archive-empty');
-    var state = { type: 'All', tag: '', q: '' }, fullText = null;
+    var state = { type: 'All', tag: '', q: '', book: '' }, fullText = null, bookSel = $('#archive-book');
     var params = new URLSearchParams(location.search); if (params.get('tag')) state.tag = params.get('tag').toLowerCase();
+    if (params.get('book')) state.book = params.get('book');
     loadIndex().then(function (idx) { fullText = {}; idx.forEach(function (d) { fullText[d.id] = (d.title + ' ' + d.text).toLowerCase(); }); apply(); }).catch(function () {});
     function apply() {
       var shown = 0, ql = state.q.toLowerCase();
       rows.forEach(function (r) {
         var id = r.getAttribute('data-id'), tags = ' ' + r.getAttribute('data-tags') + ' ';
-        var ok = (state.type === 'All' || r.getAttribute('data-type') === state.type) && (!state.tag || tags.indexOf(' ' + state.tag + ' ') > -1) &&
+        var ok = (state.type === 'All' || r.getAttribute('data-type') === state.type) && (!state.book || r.getAttribute('data-book') === state.book) && (!state.tag || tags.indexOf(' ' + state.tag + ' ') > -1) &&
           (!ql || r.getAttribute('data-title').toLowerCase().indexOf(ql) > -1 || (fullText && fullText[id] && fullText[id].indexOf(ql) > -1));
         r.hidden = !ok; if (ok) shown++;
       });
       count.textContent = shown + (shown === 1 ? ' record' : ' records');
       emptyA.hidden = shown > 0; $('.archive-table').hidden = shown === 0;
-      clear.hidden = state.type === 'All' && !state.tag && !state.q;
+      clear.hidden = state.type === 'All' && !state.tag && !state.q && !state.book;
+      if (bookSel) bookSel.value = state.book;
       $$('.filter-button').forEach(function (b) { var on = b.getAttribute('data-filter') === state.type; b.classList.toggle('active', on); b.setAttribute('aria-pressed', on); });
       $$('.tag-button').forEach(function (b) { b.classList.toggle('active', b.getAttribute('data-tag') === state.tag); b.setAttribute('aria-pressed', b.getAttribute('data-tag') === state.tag); });
     }
@@ -189,13 +194,18 @@
     }
     q.addEventListener('input', function () { state.q = q.value.trim(); apply(); });
     sort.addEventListener('change', reorder);
+    if (bookSel) bookSel.addEventListener('change', function () { state.book = bookSel.value; apply(); });
     $$('.filter-button').forEach(function (b) { b.addEventListener('click', function () { state.type = b.getAttribute('data-filter'); apply(); }); });
     $$('.tag-button').forEach(function (b) { b.addEventListener('click', function () { state.tag = state.tag === b.getAttribute('data-tag') ? '' : b.getAttribute('data-tag'); apply(); }); });
-    function reset() { state = { type: 'All', tag: '', q: '' }; q.value = ''; sort.value = 'order'; reorder(); apply(); }
+    function reset() { state = { type: 'All', tag: '', q: '', book: '' }; q.value = ''; sort.value = 'order'; reorder(); apply(); }
     clear.addEventListener('click', reset); $('[data-reset-archive]').addEventListener('click', reset);
     apply();
   }
 
+
+  /* ---------- keep the current section in view inside a long sidebar ---------- */
+  var sbar = $('.reader-sidebar'), cur = sbar && $('[aria-current="page"]', sbar);
+  if (sbar && cur) sbar.scrollTop = Math.max(0, cur.offsetTop - sbar.clientHeight / 3);
   /* ---------- reader tools ---------- */
   var size = parseFloat(getComputedStyle(root).getPropertyValue('--reading-size')) || 1.1875;
   function setSize(v) { size = Math.max(1, Math.min(1.75, v)); root.style.setProperty('--reading-size', size + 'rem'); store.set('void-size', String(size)); announce('Text size ' + Math.round(size * 16) + ' pixels'); }

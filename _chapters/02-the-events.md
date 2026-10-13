@@ -12,6 +12,7 @@ tags:
 - memory
 - trauma
 type: Section
+warning: "Reader note: this section describes a fatal crash. Please read at your own pace."
 hide_title: false
 ---
 
