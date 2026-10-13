@@ -23,7 +23,7 @@ Live site: https://alanschafer.github.io/thevoid/
 5. The Mask That Ate the Face: The Second Artifact, by Alan Shaffer (fiction, 4 sections)
 6. The Forbidden Path: Walking Beyond the Edges of Fear, by Alan Shaffer (fiction, 15 chapters plus front and back matter)
 
-Each work is a record in the archive, and each section is its own record. Book text is kept as supplied; the editorial notes on the imported manuscripts are in `HANDOFF.md` in the Perplexity Project.
+Each work is a record in the archive, and each section is its own record. Book text is kept as supplied; the importer scripts and editorial notes on the imported manuscripts are kept in the Perplexity Project, not in this repository.
 
 ## Structure
 
@@ -34,7 +34,6 @@ _data/navigation.yml header navigation
 _chapters/           one Markdown file per section (book 1 at the top level, other books in a folder per book)
 _includes/ _layouts/ templates
 books/               Books shelf, plus <id>.html (book page) and <id>-complete.html (full manuscript) per book
-tools/build_books.py, build_books2.py one-time importers for books 2 to 6 (need the source files)
 archive/ saved/ about/ help/ sources/
 assets/              css, js, images, downloads
 search.json          index used by search
